@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Classifiable"},{"p":"<Unnamed>","l":"ClassificationTree"},{"p":"<Unnamed>","l":"Classifier"},{"p":"<Unnamed>","l":"Client"},{"p":"<Unnamed>","l":"CsvReader"},{"p":"<Unnamed>","l":"DataLoader"},{"p":"<Unnamed>","l":"Email"},{"p":"<Unnamed>","l":"Split"}];updateSearchResults();
